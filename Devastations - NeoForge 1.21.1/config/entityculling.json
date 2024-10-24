@@ -34,5 +34,6 @@
   ],
   "disableF3": false,
   "skipEntityCulling": false,
-  "skipBlockEntityCulling": false
+  "skipBlockEntityCulling": false,
+  "entityShadowsCullingLessAggressiveMode": true
 }
